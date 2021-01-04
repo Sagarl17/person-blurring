@@ -5,7 +5,7 @@ This repository contains the code for training and testing on people in 360-degr
 # Steps For Installation:
 
 ```bash
-git clone https://git.xyzinnotech.com/gopinath/person-blurring.git
+git clone https://github.com/Sagarl17/person-blurring.git
 cd person-blurring
 pip install -r requirements-cpu.txt (If GPU is not available)
                or
