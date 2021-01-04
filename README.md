@@ -24,6 +24,8 @@ During the training process, models will get generated in the logs folder.
 ```bash
 Please download the model from the following link and place it in models folder and run test.py after placing the relevant images in val folder.
 https://drive.google.com/file/d/1VCqyZQUJqg3T6djJdLnuVkRPcV4ZJKzY/view?usp=sharing
+Sample images are provided in the following link.Place the images in val folder:
+https://drive.google.com/file/d/18GuPOpH1hRAP63_nct5YgQfCvNABXGPc/view?usp=sharing
 Once the testing is finished,the results will be visible in results-val folder
 ```
 
